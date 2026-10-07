@@ -1,13 +1,46 @@
 <!-- Header -->
+
 <div align="center">
 
-# Mahmoud Ayesh
+# Mahmoud Ahmed Ayesh
 
-<img src="https://js-readme-typing-svg.vercel.app/svg?lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Embedded+Systems+Builder;Turning+Ideas+Into+Real+Projects&fontFamily=Fira%20Code&fontSize=24&fontWeight=600&color=36BCF7&background=transparent&width=800&height=80&printSpeed=8&eraseSpeed=8&delayBetweenLines=900&horizontalAlign=center&verticalAlign=middle&cursorStyle=straight&repeat=true" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Embedded+Systems+Builder;Turning+Ideas+Into+Real+Projects" alt="Typing animation" />
 
-<a href="https://github.com/Mahmoudayesh145?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers" />
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet-light.svg">
+
+<img
+ src="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg"
+ alt="Mahmoud's GitHub pet"
+ width="700"> </picture>
+
+<p>
+
+  <a href="https://github.com/Mahmoudayesh145">
+    <img src="https://komarev.com/ghpvc/?username=Mahmoudayesh145&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+  </a>
+
+  <a href="https://github.com/Mahmoudayesh145?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers" />
+  </a>
+
+</p>
+
+</div>
+
+  <a href="https://github.com/Mahmoudayesh145">
+    <img src="https://komarev.com/ghpvc/?username=Mahmoudayesh145&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Mahmoudayesh145?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers" />
+  </a>
+</p>
 
 </div>
 
@@ -23,47 +56,31 @@ I enjoy learning how systems work from the hardware level to the application lev
 
 ---
 
-## What I Do
-
-- Build AI-powered applications using LLMs, RAG, and intelligent agents
-- Develop full-stack web applications and backend APIs
-- Create computer vision and machine learning projects
-- Work with Arduino, ESP32, and embedded systems
-- Design applications involving databases, authentication, and real-time communication
-- Study operating systems, algorithms, data structures, and computer architecture
-
----
-
 ## Technologies and Tools
 
 <div align="center">
 
 ### Programming Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,php,mysql&perline=9" alt="Programming languages" />
 
 ### Artificial Intelligence
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=6" alt="Artificial intelligence technologies" />
 
 ### Web and Mobile Development
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,dotnet,flutter&perline=9" alt="Web and mobile technologies" />
 
 ### Databases and Infrastructure
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq,docker,firebase&perline=7" alt="Databases and infrastructure" />
 
 ### Embedded Systems and Tools
+
 <img src="https://skillicons.dev/icons?i=arduino,linux,git,github,vscode&perline=6" alt="Embedded systems and development tools" />
 
 </div>
-
----
-
-## My GitHub Companion
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet.svg" width="100%">
-</picture>
 
 ---
 
@@ -127,12 +144,17 @@ I enjoy learning how systems work from the hardware level to the application lev
 ## GitHub Statistics
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoudayesh145&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7" alt="Mahmoud's GitHub statistics" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudayesh145&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=36BCF7" alt="Most used languages" />
+
 </div>
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Mahmoudayesh145&hide_border=true&theme=transparent&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak" />
+
 </div>
 
 ---
@@ -140,11 +162,19 @@ I enjoy learning how systems work from the hardware level to the application lev
 ## Connect With Me
 
 <div align="center">
-<a href="https://github.com/Mahmoudayesh145"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
+
+<a href="https://github.com/Mahmoudayesh145">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+</a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+</a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
+<a href="mailto:your-email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+</a>
+
 </div>
 
 <br />
