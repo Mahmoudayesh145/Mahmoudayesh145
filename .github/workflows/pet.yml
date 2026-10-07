@@ -1,0 +1,21 @@
+name: YourTomo
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  yourtomo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: prsdx/github-pet@v1
+        with:
+          username: Mahmoudayesh145
+          timezone-offset-minutes: "180"
