@@ -34,13 +34,6 @@
 
 </div>
 
-  <a href="https://github.com/Mahmoudayesh145">
-    <img src="https://komarev.com/ghpvc/?username=Mahmoudayesh145&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Mahmoudayesh145?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers" />
-  </a>
-</p>
 
 </div>
 
