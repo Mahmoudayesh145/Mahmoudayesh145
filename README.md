@@ -27,6 +27,11 @@
   </a>
 
 </p>
+<img src="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/snake.svg" width="700" alt="Animated snake moving around Mahmoud's profile header">
+
+<br>
+
+<p> <a href="https://github.com/Mahmoudayesh145?tab=followers"> <img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers"> </a> </p>
 
 </div>
 
