@@ -198,19 +198,6 @@ I enjoy learning how systems work from the hardware level to the application lev
   </tr>
 </table>
 
-## Currently Learning
-
-- Agentic AI architecture
-- Retrieval-Augmented Generation
-- Large Language Model applications
-- Computer vision
-- Scalable backend development
-- Cloud deployment
-- Embedded software and hardware integration
-- Clean architecture and system design
-
----
-
 ## GitHub Statistics
 
 <div align="center">
