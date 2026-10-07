@@ -71,71 +71,71 @@ I enjoy learning how systems work from the hardware level to the application lev
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=200&section=header&text=Featured%20Projects&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=180&section=header&text=Featured%20Projects&fontSize=44&fontColor=ffffff&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=AI+%26+Computer+Vision;Full-Stack+Applications;Embedded+%26+Systems+Engineering;Games+%26+Experiments" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,100:A78BFA&height=70&section=header&text=AI%20%26%20Intelligent%20Systems&fontSize=26&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mahmoudayesh145/AI-Agent"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=AI-Agent&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/ChatIO-AI"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=ChatIO-AI&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Chatbot"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Chatbot&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Face_Attendance"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Face_Attendance&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/OpenCV"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=OpenCV&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Price-Prediction-Model"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Price-Prediction-Model&theme=tokyonight&hide_border=true" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=AI+and+Computer+Vision;Full-Stack+Applications;Embedded+and+Systems+Engineering;Games+and+Experiments" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,100:38BDF8&height=70&section=header&text=Full-Stack%20%26%20Applications&fontSize=26&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Intelligent%20Systems-7C3AED?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mahmoudayesh145/Elvora"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Elvora&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Flixy"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Flixy&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Voxa-Chat"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Voxa-Chat&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/GameStore"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=GameStore&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Simple-Next-Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Simple-Next-Project&theme=tokyonight&hide_border=true" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F59E0B,100:FBBF24&height=70&section=header&text=Embedded%20%26%20Systems%20Engineering&fontSize=26&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mahmoudayesh145/Arduino-Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Arduino-Project&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Simple-FIFO_Elvator"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Simple-FIFO_Elvator&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/OS-Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=OS-Project&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Communication-project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Communication-project&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Arch_Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Arch_Project&theme=tokyonight&hide_border=true" /></a>
+<p align="left">
+  <a href="https://github.com/Mahmoudayesh145/AI-Agent"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=AI-Agent&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/ChatIO-AI"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=ChatIO-AI&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Face_Attendance"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Face_Attendance&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/head-mouse-demo"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=head-mouse-demo&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Price-Prediction-Model"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Price-Prediction-Model&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/OpenCV"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=OpenCV&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Chatbot"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Chatbot&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:EF4444,100:F87171&height=70&section=header&text=Games%20%26%20Experiments&fontSize=26&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20%26%20Applications-0EA5E9?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Mahmoudayesh145/Elvora"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Elvora&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Flixy"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Flixy&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Voxa-Chat"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Voxa-Chat&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/GameStore"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=GameStore&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Simple-Next-Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Simple-Next-Project&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20%26%20Systems%20Engineering-F59E0B?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Mahmoudayesh145/Arduino-Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Arduino-Project&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Simple-FIFO_Elvator"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Simple-FIFO_Elvator&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Arch_Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Arch_Project&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/OS-Project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=OS-Project&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Communication-project"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Communication-project&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Games%20%26%20Experiments-EF4444?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Mahmoudayesh145/Snake-Monopoly"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Snake-Monopoly&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/Flappy-Bird-Game"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Flappy-Bird-Game&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/Mahmoudayesh145/gameBoy"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=gameBoy&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mahmoudayesh145/Flappy-Bird-Game"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Flappy-Bird-Game&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/gameBoy"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=gameBoy&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/Snake-Monopoly"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=Snake-Monopoly&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Mahmoudayesh145/head-mouse-demo"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudayesh145&repo=head-mouse-demo&theme=tokyonight&hide_border=true" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=100&section=footer" />
 </p>
 ---
 
