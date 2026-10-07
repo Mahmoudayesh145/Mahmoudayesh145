@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Mahmoud Ahmed Ayesh
+<img src="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/dragon-name-banner.svg" alt="Mahmoud Ahmed Ayesh" width="900" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Embedded+Systems+Builder;Turning+Ideas+Into+Real+Projects" alt="Typing animation" />
 
