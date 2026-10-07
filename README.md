@@ -59,13 +59,11 @@ I enjoy learning how systems work from the hardware level to the application lev
 
 ## My GitHub Companion
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet-light.svg">
-    <img alt="Mahmoud's YourTomo GitHub activity pet" src="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg" width="760">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet.svg" width="100%">
+</picture>
 
 ---
 
