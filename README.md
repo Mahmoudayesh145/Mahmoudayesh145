@@ -28,17 +28,6 @@ I enjoy learning how systems work from the hardware level to the application lev
 
 ---
 
-## What I Do
-
-- Build AI-powered applications using LLMs, RAG, and intelligent agents
-- Develop full-stack web applications and backend APIs
-- Create computer vision and machine learning projects
-- Work with Arduino, ESP32, and embedded systems
-- Design applications involving databases, authentication, and real-time communication
-- Study operating systems, algorithms, data structures, and computer architecture
-
----
-
 ## Technologies and Tools
 
 <div align="center">
