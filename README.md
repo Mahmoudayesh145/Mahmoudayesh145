@@ -3,12 +3,11 @@
 
 # Mahmoud Ayesh
 
-<img src="https://js-readme-typing-svg.vercel.app/svg?lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Embedded+Systems+Builder;Turning+Ideas+Into+Real+Projects&fontFamily=Fira+Code&fontSize=24&fontWeight=600&color=36BCF7&background=transparent&width=800&height=70&printSpeed=10&eraseSpeed=8&delayBetweenLines=900&horizontalAlign=center&verticalAlign=middle&cursorStyle=straight&repeat=true" alt="Typing animation" />
+<img src="https://js-readme-typing-svg.vercel.app/svg?lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Embedded+Systems+Builder;Turning+Ideas+Into+Real+Projects&fontFamily=Fira%20Code&fontSize=24&fontWeight=600&color=36BCF7&background=transparent&width=800&height=80&printSpeed=8&eraseSpeed=8&delayBetweenLines=900&horizontalAlign=center&verticalAlign=middle&cursorStyle=straight&repeat=true" alt="Animated introduction" />
 
-<p>
-  <a href="https://github.com/Mahmoudayesh145"><img src="https://komarev.com/ghpvc/?username=Mahmoudayesh145&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" /></a>
-  <a href="https://github.com/Mahmoudayesh145?tab=followers"><img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers" /></a>
-</p>
+<a href="https://github.com/Mahmoudayesh145?tab=followers">
+  <img src="https://img.shields.io/github/followers/Mahmoudayesh145?label=Followers&style=flat&color=36BCF7" alt="GitHub followers" />
+</a>
 
 </div>
 
@@ -58,13 +57,13 @@ I enjoy learning how systems work from the hardware level to the application lev
 
 ---
 
-## A Small Visitor on My Profile
+## My GitHub Companion
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet-light.svg">
-    <img alt="Mahmoud's GitHub activity pet" src="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg" width="100%">
+    <img alt="Mahmoud's YourTomo GitHub activity pet" src="https://raw.githubusercontent.com/Mahmoudayesh145/Mahmoudayesh145/main/dist/pet.svg" width="760">
   </picture>
 </p>
 
