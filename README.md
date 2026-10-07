@@ -199,7 +199,6 @@ I enjoy learning how systems work from the hardware level to the application lev
     </td>
   </tr>
 </table>
----
 
 ## Currently Learning
 
