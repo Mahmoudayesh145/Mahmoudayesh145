@@ -202,7 +202,7 @@ I enjoy learning how systems work from the hardware level to the application lev
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoudayesh145&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7" alt="Mahmoud's GitHub statistics" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoudayesh145&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7" alt="Mahmoud's GitHub statistics" /> -->
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudayesh145&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=36BCF7" alt="Most used languages" />
 
