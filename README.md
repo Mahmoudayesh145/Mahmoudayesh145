@@ -224,11 +224,11 @@ I enjoy learning how systems work from the hardware level to the application lev
   <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mahmoud-ayesh-002045331">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@example.com">
+<a href="mailto:mahmoudayesh145@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
 </a>
 
